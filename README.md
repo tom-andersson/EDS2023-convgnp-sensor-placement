@@ -1,4 +1,4 @@
-# Codebase for 'Environmental Sensor Placement with Convolutional Gaussian Neural Processes'
+# Environmental Sensor Placement with Convolutional Gaussian Neural Processes
 Codebase for reproducing the experiments in the 'Environmental Sensor Placement with Convolutional Gaussian Neural Processes' paper (in review, _Environmental Data Science_) [1].
 
 **Work in progress**: This codebase will be updated soon!
