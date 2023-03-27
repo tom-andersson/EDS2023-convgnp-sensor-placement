@@ -1,2 +1,10 @@
-# convgnp-sensor-placement
-Codebase for reproducing the results in 'Environmental Sensor Placement with Convolutional Gaussian Neural Processes' in the Climate Informatics 2022 conference
+# Codebase for 'Environmental Sensor Placement with Convolutional Gaussian Neural Processes'
+Codebase for reproducing the experiments in the 'Environmental Sensor Placement with Convolutional Gaussian Neural Processes' paper (in review, _Environmental Data Science_) [1].
+
+**Work in progress**: This codebase will be updated soon!
+
+
+
+[1] Andersson, T.R., Bruinsma, W.P., Markou, S., Requeima, J., Coca-Castro, A., Vaughan, A., Ellis, A.-L., Lazzara, M., Jones, D.C., Hosking, J.S., Turner, R.E., 2023. Environmental Sensor Placement with Convolutional Gaussian Neural Processes. https://doi.org/10.48550/arXiv.2211.10381
+
+
