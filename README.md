@@ -1,5 +1,5 @@
 # Environmental Sensor Placement with Convolutional Gaussian Neural Processes
-Codebase for reproducing the experiments in the 'Environmental Sensor Placement with Convolutional Gaussian Neural Processes' paper (in press, _Environmental Data Science_) [1], being presented at the _Climate Informatics_ 2022 conference.
+Codebase for reproducing the experiments in the 'Environmental Sensor Placement with Convolutional Gaussian Neural Processes' paper (in press, _Environmental Data Science_) [1], presented at the _Climate Informatics_ 2022 conference.
 
 **Work in progress**: This codebase will be updated soon! For the time being, check out DeepSensor, a Python package for modelling xarray and pandas data with neural processes: https://github.com/tom-andersson/deepsensor/tree/main
 
